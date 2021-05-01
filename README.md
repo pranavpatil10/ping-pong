@@ -1,2 +1,2 @@
 # ping-pong
-ner to github
+new to github
